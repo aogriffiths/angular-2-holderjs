@@ -2,7 +2,7 @@
   "name": "angular-2-holderjs",
   "version": "1.0.0",
   "description": "An Angular 2 directive for Holder,js",
-  "main": "holderjs.component.js",
+  "main": "holderjs.directive.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc *.ts",

@@ -1,0 +1,1 @@
+{"version":3,"file":"holderjs.directive.js","sourceRoot":"","sources":["holderjs.directive.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAAsC,eAAe,CAAC,CAAA;AAMtD;IACI,2BAAY,EAAc;QACvB,MAAM,CAAC,GAAG,CAAC,EAAC,MAAM,EAAC,EAAE,CAAC,aAAa,EAAC,CAAC,CAAC;IACzC,CAAC;IANL;QAAC,gBAAS,CAAC;YACT,QAAQ,EAAE,YAAY;SACvB,CAAC;;yBAAA;IAKF,wBAAC;AAAD,CAAC,AAJD,IAIC;AAJY,yBAAiB,oBAI7B,CAAA"}

@@ -29,19 +29,16 @@ returns the file:
 
 `node_modules/angular-2-holderjs/holderjs.component.js`
 
-Then add this to the system.js map:
+Then add this to the system.js map and packages:
 
 ```javascript
-//systemjs.config.js
-//...
+//relevant lines from systemjs.config.js
 var map = {
-  'app':                        'app', // 'dist',
-  '@angular':                   'system.js/@angular',
   'angular-2-holderjs':         'system.js/angular-2-holderjs',  //[**B]
-  'angular2-in-memory-web-api': 'system.js/angular2-in-memory-web-api',
-  'rxjs':                       'system.js/rxjs'
 };
-//...
+var packages = {
+  'angular-2-holderjs':         { main: 'holderjs.directive.js',  defaultExtension: 'js' },
+};
 ```
 
 Now when your Angular 2 Component imports `holderjs.directive` it system.js will

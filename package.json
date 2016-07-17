@@ -1,6 +1,6 @@
 {
   "name": "angular-2-holderjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An Angular 2 directive for Holder,js",
   "main": "holderjs.directive.js",
   "scripts": {

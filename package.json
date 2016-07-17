@@ -1,0 +1,28 @@
+{
+  "name": "angular-2-holderjs",
+  "version": "1.0.0",
+  "description": "An Angular 2 directive for Holder,js",
+  "main": "holderjs.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aogriffiths/angular-2-holderjs.git"
+  },
+  "keywords": [
+    "Angular2",
+    "Angular 2",
+    "Angular.js",
+    "Angularjs",
+    "Holder.js",
+    "holderjs"
+    "holder"
+  ],
+  "author": "Adam Griffiths",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aogriffiths/angular-2-holderjs/issues"
+  },
+  "homepage": "https://github.com/aogriffiths/angular-2-holderjs#readme"
+}
